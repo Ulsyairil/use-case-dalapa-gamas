@@ -1,4 +1,4 @@
-# Use Case: DALAPA GAMAS (Mass Network Disruption)
+# Use Case DALAPA GAMAS (Mass Network Disruption)
 
 This application is designed to verify work orders related to network disruptions that have been completed by technicians. The verification process is carried out via mobile devices. Currently, the application is still under development.
 
