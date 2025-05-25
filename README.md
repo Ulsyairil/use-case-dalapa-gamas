@@ -107,4 +107,14 @@ Visit `http://127.0.0.1:8000` in your browser.
 npm run watch
 ```
 
-## Done!
+---
+
+## API Docs
+
+See `/api/documentation` for API documentation. If empty just run: 
+
+```bash
+php artisan l5-swagger:generate
+```
+
+Then visit `/api/documentation`
